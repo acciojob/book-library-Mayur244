@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 body {
 	background-color: #f8f8f8;
-	background-color: rgb(46, 204, 113);
+	/* background-color: rgb(46, 204, 113); */
 }
 
 .book-library {
@@ -18,13 +18,13 @@ body {
 	color: #777777;
 }
 
-.price {
+/* .price {
 	background-color: #2ecc71;
 	height: 20px;
 	padding: 5px;
 	color: white;
 	text-align: center;
-}
+} */
 
 img {
 	width: 300px;
@@ -44,5 +44,8 @@ h1 {
 }
 
 .book-div {
-	background-color: rgb(46, 204, 113);
+	background-color: #2ecc71;
+	color: rgb(255, 255, 255);
+	padding: 1px;
+	text-align: center;
 }
